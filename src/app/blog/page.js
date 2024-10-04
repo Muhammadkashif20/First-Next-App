@@ -1,11 +1,11 @@
-import Link from 'next/link'
-import React from 'react'
+// import Link from "next/link"
 
 const page = () => {
+ 
   return (
-    <div>
-            <h1 className='text-3xl font-bold underline text-center mt-4'>All Blogs</h1>
-    </div>
+   <div>
+<h1>Hello Blog Page</h1>
+   </div>
   )
 }
 
