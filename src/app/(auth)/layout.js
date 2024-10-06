@@ -1,7 +1,6 @@
-export default function RootLayout({ children }) {
+
+const Layout=()=>{
     return(
-        <div>
-            
-        </div>
+        <h1 className="">Image</h1>
     )
 }
